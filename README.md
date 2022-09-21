@@ -7,7 +7,7 @@
 Esse projeto foi desenvolvido durante o evento NLW eSports realizado pela [Rocketseat](https://www.youtube.com/c/RocketSeat). Ele consiste em criar uma página 
 que apresente os jogos e streamers favoritos do usuário. Ao clicar em um jogo, a página é redirecionada para a sua respectiva categoria na plataforma de streams [Twitch](https://www.twitch.tv/).
 
-Apesar de ser um projeto simples, ele aborda os conteúdos essenciais de HTML como adicionar texto, imagens e links, além de utilizar animations e transitions do CSS.
+Apesar de ser um projeto simples, ele aborda conceitos essenciais de HTML como adicionar texto, imagens e links, além de utilizar animations e transitions do CSS.
 
 🔗 [Clique aqui para visualizar o resultado](https://nathaliagomes.github.io/nlw-esports-explorer)
 
